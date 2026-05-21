@@ -434,8 +434,8 @@ Future improvements could include:
 
 **Project Status**: ✅ **READY FOR SUBMISSION**
 
-**Submission Date**: [Insert today's date]
-**Candidate Name**: [Your Name]
+**Submission Date**: 17-05-2026
+**Candidate Name**: Abhishek Kumar T
 **Role Applied For**: Jr. Web Developer Intern
 **Company**: SuPrazo Technologies
 
